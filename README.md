@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá 👋 eu sou a Jhenifer Campos!
 
-<!--
-**jhenifercampos/jhenifercampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com inteligência de mercado
+- 🌱 Estudando SQL
 
-Here are some ideas to get you started:
+  ![Jhenifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenifercampos&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jhenifer-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Jhenifer-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Jhenifer-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Jhenifer-SF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/jheniferscampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
