@@ -1,4 +1,4 @@
-## Olá 👋 eu sou a Jhenifer Campos!
+## Olá 👋 eu sou a Jhenifer Sena!
 
 - 🔭 Atualmente trabalho com inteligência de mercado
 - 🌱 Estudando SQL
