@@ -1,7 +1,7 @@
 ## Olá 👋 eu sou a Jhenifer Sena!
 
 - 🔭 Atualmente trabalho com inteligência de mercado
-- 🌱 Estudando SQL
+- 🌱 Estudando SQL e Estatística
 
   ![Jhenifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenifercampos&show_icons=true&theme=dracula)
 
