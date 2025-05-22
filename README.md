@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com inteligência de mercado
 - 🌱 Estudando SQL e Estatística
 
-  ![Jhenifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenifercampos&show_icons=true&theme=dracula)
+  ![Jhenifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenifersena&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhenifer-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
